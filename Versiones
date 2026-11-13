@@ -1,0 +1,34 @@
+git init
+git add .
+git commit -m "V1.0 - Base de datos y login con roles"
+git tag -a V1.0 -m "Versión inicial: BD + autenticación"
+
+git add .
+git commit -m "V1.1 - Dashboards y disponibilidad por bloques"
+git tag -a V1.1 -m "Dashboards de 4 roles + tabla expandible"
+
+git add .
+git commit -m "V1.2 - Fix bug doble reserva"
+git tag -a V1.2 -m "Validación estricta de conflictos horarios"
+
+git add .
+git commit -m "V1.3 - Registro de usuarios"
+git tag -a V1.3 -m "Registro con validación de correo institucional"
+
+git add .
+git commit -m "V1.4 - Check-in y check-out"
+git tag -a V1.4 -m "Sistema de entrada/salida real en reservas"
+
+git add .
+git commit -m "V1.5 - Reportes multitabla"
+git tag -a V1.5 -m "JOIN de 3 tablas + estadísticas"
+
+git add .
+git commit -m "V1.6 - PDF y visualización 3D"
+git tag -a V1.6 -m "Dompdf + A-Frame integrados"
+
+git add .
+git commit -m "V1.7 - Versión final para sustentación"
+git tag -a V1.7 -m "Pulido de UI/UX y documentación final"
+
+git log --oneline --decorate
