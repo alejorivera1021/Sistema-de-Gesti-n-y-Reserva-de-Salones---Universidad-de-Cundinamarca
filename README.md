@@ -1,0 +1,2 @@
+# Sistema-de-Gesti-n-y-Reserva-de-Salones---Universidad-de-Cundinamarca
+Plataforma web que permite a la comunidad universitaria consultar en tiempo real la disponibilidad de salones, realizar reservas académicas y programar mantenimientos. Su objetivo es optimizar el uso de la infraestructura física, eliminar conflictos de horarios y facilitar la coordinación entre actividades académicas y servicios generales.
